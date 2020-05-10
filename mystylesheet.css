@@ -1,0 +1,24 @@
+a:link {
+         color: green;background-color: transparent;text-decoration: none;
+       }
+a:visited {
+         color: pink;background-color: transparent;text-decoration: none;
+       } 
+a:hover {
+         color: red;background-color: transparent;text-decoration: underline;
+       }
+a:active {
+         color: yellow;background-color: transparent;text-decoration: underline;
+       }
+        
+body {
+        font-family: Verdana;background-image: url(file:///C:/Users/Jupiter/Documents/jupiter.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;background-size: cover;
+      }
+p.error {
+        color:red;
+      }
+#p01 {
+         background-color: tomato; border: 2px tomato;
+      }
